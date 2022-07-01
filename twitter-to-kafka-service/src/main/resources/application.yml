@@ -1,0 +1,9 @@
+twitter-to-kafka-services:
+  twitter-keywords:
+    - Java
+    - Microservices
+    - Spring
+    - Kafka
+    - Elasticsearch
+  welcome-message:
+    - Welcome to jamrock
